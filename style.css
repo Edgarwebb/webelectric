@@ -1,0 +1,83 @@
+.cabecera{
+   background-color: black;
+    height: 80px;
+}
+
+.titulo{
+    color:rgb(233, 233, 17);
+    text-align: center;
+
+}
+
+.subtitulo{
+
+    text-align: center;
+
+}
+.tabla1{
+   width: 100%;
+}
+
+.tabla2{
+   background-color: yellow;
+    height: 350px;
+     width: 100%;
+}
+.columna1{
+   text-align: center;
+}
+
+.columna2{
+   width: 400px;
+   text-align: center;
+}
+
+.columna3{
+   width: 400px;
+   text-align: center;
+}
+.columna4{
+   width: 400px; 
+   text-align: center;
+}
+
+.tabla3{
+   text-align: center;
+}
+
+.nombre1{
+   text-align: center;
+}
+
+.tabla4{
+   background-color: yellow;
+   height: 400px;
+   width: 100%;
+
+}
+
+.parrafo1{
+   text-align: left;
+}
+
+.parrafo2{
+   text-align: left;
+
+}
+
+.boton1{
+   text-align: center;
+}
+
+.botoncolor{
+
+   background-color:black;
+   color:white;
+   font-size:20px;
+}
+
+.footer1{
+    text-align: center;
+
+}
+
